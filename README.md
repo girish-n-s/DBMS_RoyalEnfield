@@ -47,6 +47,8 @@ mysql -u root -p
 python app.py
 
 
+```
+```
 #Project Structure
 royal-enfield-portal/
 │
@@ -65,9 +67,9 @@ royal-enfield-portal/
 ├── royal_enfield.sql       # DB schema & sample data
 ├── app.py                  # Flask application
 ├── requirements.txt        # Python packages
-└── README.md               # This file
-
-🧱 Database Schema
+└── README.md               # This file '''
+```
+##🧱 Database Schema
 
 1. branch
 
